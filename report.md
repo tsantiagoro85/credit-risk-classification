@@ -18,7 +18,8 @@ The number of true positives (TP) greatly surpassed the values of false positive
 
 The classification report results showed that the precision, recall and f1-score values for healthy loans were excellent (i.e., 1.00). While the precision, recall and f1-score values for predicting high-risk loans were not as high as predicting healthy loans (i.e., 0.87, 0.95 and 0.91, respectively), the prediction was still very good. See results below:
 
-             <img width="404" alt="Screenshot 2024-12-07 at 11 43 28 AM" src="https://github.com/user-attachments/assets/a6f80f05-3279-4d29-bf1d-5fed22161207">
+<img width="404" alt="Screenshot 2024-12-07 at 11 43 28 AM" src="https://github.com/user-attachments/assets/afaac080-9dae-415b-a19b-0d1f94b8054e">
+
 
 
 ## Summary
